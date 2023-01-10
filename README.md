@@ -27,8 +27,8 @@
 
 ## :bar_chart: Github Stats
 
- <a href="https://github.com/DanielaTomas"><img align="center" height="180em" alt="Daniela GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DanielaTomas&theme=dark&count_private=true&show_icons=true"></a>
- <a href="https://github.com/DanielaTomas"><img align="center" height="180em" alt="Daniela Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaTomas&layout=compact&theme=dark&langs_count=7"></a>   
+ <a href="https://github.com/DanielaTomas"><img align="center" height="180em" alt="Daniela GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielaTomas&theme=dark&count_private=true&show_icons=true"></a>
+ <a href="https://github.com/DanielaTomas"><img align="center" height="180em" alt="Daniela Top Languages" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=DanielaTomas&layout=compact&theme=dark&langs_count=7"></a>   
 
 <!--
 **DanielaTomas/DanielaTomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
