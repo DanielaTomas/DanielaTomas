@@ -1,7 +1,8 @@
 # Hi, I'm Daniela Tomás 👋
 
-🎓 I have a Bachelor's degree Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)<br>
-   I'm currently studying for a Master's degree in Network and Information Systems Engineering [@FCUP](https://sigarra.up.pt/fcup/en/web_page.Inicial) 
+🎓 I have a Bachelor's degree in Informatics and Computing Engineering from [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)<br>
+🎓 I have a Master's degree in Network and Information Systems Engineering from [@FCUP](https://sigarra.up.pt/fcup/en/web_page.Inicial)<br>
+💼 I'm currently a Salesforce Intern Developer at @Natixis
 
 <a href="mailto:daniela.stomas02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-daniela.stomas02@gmail.com-teal?style=for-the-badge&color=98bad5&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/daniela-tom%C3%A1s-86a589262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniela%20Tomás-teal?style=for-the-badge&color=98bad5&logo=linkedin"></a>
